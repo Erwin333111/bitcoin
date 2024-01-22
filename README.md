@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin Core integration/is free
 =====================================
 
 https://bitcoincore.org
